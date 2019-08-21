@@ -26,7 +26,7 @@
 * [Troubleshooting: Physical iOS Device Testing](https://blog.londonappbrewery.com/troubleshooting-ios-device-testing-for-flutter-38c5da239e62)
 * [Troubleshooting: Physical Android Device Testing](https://blog.londonappbrewery.com/troubleshooting-android-device-testing-on-windows-a2b5d779df08)
 
-## 2. I Am Poor App
+## 2. I Am Poor App (<- BONS BANCOS DE IMAGEM E ÍCONESS)  
 
 * [Icons8](https://icons8.com/)
 * [Vecteezy](https://www.vecteezy.com/)
